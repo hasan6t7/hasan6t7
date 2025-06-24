@@ -45,7 +45,7 @@ Tech lover who enjoys turning ideas into reality through clean and efficient cod
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasan6t7&theme=default" alt="GitHub Streak" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan6t7&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=hasan6t7&show_icons=true" alt="GitHub Stats" />
 </p>
