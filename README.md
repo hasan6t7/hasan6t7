@@ -31,6 +31,9 @@ Tech lover who enjoys turning ideas into reality through clean and efficient cod
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
+<p align="left">
+  <img src="68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c72656163742c7461696c77696e642c6e6f64656a732c657870726573732c6d6f6e676f64622c66697265626173652c676974" width="40" /> 
+</p>
 
 ---
 
