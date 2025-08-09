@@ -5,7 +5,7 @@
 
 
 # 👋 Hi there, I'm Hasanujjaman Hasan  
-### 💻 Full Stack Web Developer | MERN Stack Enthusiast
+### 💻 MERN Stack Developer | Full Stack Web Enthusiast
 
 ---
 
