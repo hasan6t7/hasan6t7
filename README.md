@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/hasan6t7/hasan6t7/blob/main/gBanner.png" alt="Header" height="300px" />
+<img src="https://github.com/hasan6t7/hasan6t7/blob/main/gBanner.png" alt="Header" height="400px" width="full" />
 
 
 
