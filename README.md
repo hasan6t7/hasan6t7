@@ -15,7 +15,7 @@ Tech lover who enjoys turning ideas into reality through clean and efficient cod
 
 ### 🔭 Currently I’m:
 - 🔍 Exploring **Next.js**
-- 🧳 Building a **tourism website** with dynamic booking features
+- 🧳 Learning **Redux**
 - 🔐 Learning **JWT authentication**
 - 📚 Practicing **Data Structures & Algorithms**
 
