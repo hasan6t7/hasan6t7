@@ -1,4 +1,4 @@
-<img src="https://github.com/hasan6t7/hasan6t7/blob/main/gBanner.png" alt="Header" />
+o<img src="https://github.com/hasan6t7/hasan6t7/blob/main/gBanner.png" alt="Header" />
 
 # 👋 Hi there, I'm **Md. Hasanujjaman**
 ### 💻 MERN Stack Developer | Full Stack Web Enthusiast  
@@ -83,11 +83,6 @@ I love building projects that merge design with performance and usability.
 
 ---
 
-## ✍️ Dev Quote  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
 
 ---
 
