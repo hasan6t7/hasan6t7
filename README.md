@@ -73,14 +73,7 @@ I love building projects that merge design with performance and usability.
     </picture>
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/hasan6t7">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/hasan6t7/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
-</p>
+
 <br />
 
 <!--Github stats Table--> 
@@ -132,15 +125,7 @@ I love building projects that merge design with performance and usability.
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan6t7&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
----
 
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasan6t7&theme=radical&no-frame=false&no-bg=false&margin-w=8" alt="GitHub Trophies" />
-</p>
-
----
 
 
 ---
