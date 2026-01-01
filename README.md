@@ -74,22 +74,18 @@ With hands-on experience in **React**, **Next.js**, **Redux Toolkit**, and **RTK
   <a href="https://github.com/hasan6t7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:hasan.hasanujjaman@gmail.com">
+  <a href="mailto:mdhasanujjaman367@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
+--- 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan6t7&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan6t7&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan6t7&layout=compact&theme=radical" />
-</p>
 
 
 ---
@@ -97,8 +93,9 @@ With hands-on experience in **React**, **Next.js**, **Redux Toolkit**, and **RTK
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasan6t7&theme=radical&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hasan6t7&theme=radical&row=1&column=5&margin-w=10" />
 </p>
+
 
 ---
 
