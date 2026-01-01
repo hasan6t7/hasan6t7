@@ -55,10 +55,12 @@ I love building projects that merge design with performance and usability.
 
 ## 🌐 Connect With Me  
 
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hasanujjaman-in/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasan6t7)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhasanujjaman367@gmail.com)
+</p>
 
 ---
 
@@ -81,43 +83,31 @@ I love building projects that merge design with performance and usability.
 
 <table width="100%">
   <tr>
-    <td width="100%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/hasan6t7">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=hasan6t7&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <a href="https://github.com/hasan6t7">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=hasan6t7&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+      </a>
     </td>
-    
-  </tr>
-  <tr>
-  <td width="100%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/hasan6t7">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=hasan6t7&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <a href="https://github.com/hasan6t7">
+        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=hasan6t7&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      </a>
     </td>
-
-    
   </tr>
 </table>
+
 <br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan6t7&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan6t7&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius:15px;">
 </div>
-
-
-
 
 ---
 
 ## 💬 Let's Collaborate!  
 I’m always open to collaborating on **Next.js**, **React**, or **Open Source Projects**.  
 > ✉️ Reach out to me — let’s build something creative and impactful together!
-
