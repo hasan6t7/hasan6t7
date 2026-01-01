@@ -84,13 +84,13 @@ With hands-on experience in **React**, **Next.js**, **Redux Toolkit**, and **RTK
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan6t7&theme=radical&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan6t7&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan6t7&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan6t7&theme=radical&layout=compact" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan6t7&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
