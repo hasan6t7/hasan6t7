@@ -80,21 +80,10 @@ With hands-on experience in **React**, **Next.js**, **Redux Toolkit**, and **RTK
 </p>
 
 --- 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan6t7&show_icons=true&theme=radical&cache_seconds=86400" />
-</p>
+![GitHub Contribution Graph](https://github.com/hasan6t7)
 
-
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasan6t7&theme=radical&row=1&column=5&margin-w=10" />
-</p>
 
 
 ---
