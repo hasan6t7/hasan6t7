@@ -81,7 +81,7 @@ I love building projects that merge design with performance and usability.
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="100%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/hasan6t7">
@@ -89,14 +89,7 @@ I love building projects that merge design with performance and usability.
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/hasan6t7">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=hasan6t7&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
+    
   </tr>
   <tr>
   <td width="100%">
