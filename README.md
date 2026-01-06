@@ -1,11 +1,11 @@
 <img src="https://github.com/hasan6t7/hasan6t7/blob/main/gBanner.png" alt="Header" />
 
-# 👋 Hi there, I'm **Md. Hasanujjaman**
-### 💻 MERN Stack Developer | Full Stack Web Enthusiast  
+#  Hi there, I'm **Md. Hasanujjaman**
+###  MERN Stack Developer | Full Stack Web Enthusiast  
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 
 I’m a passionate web developer focused on crafting fast, scalable, and user-friendly web applications.  
 With a solid foundation in the **MERN Stack** and tools like **Next.js**, **shadcn/ui**, and **RTK Query**,  
@@ -75,24 +75,18 @@ I love building projects that merge design with performance and usability.
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+<div align="center">
+  <h3><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <a href="https://github.com/hasan6t7">
         <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=hasan6t7&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
       </a>
-    </td>
-    <td width="50%" align="center">
-      <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+</div>
+<div align="center">
+    <h3><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <a href="https://github.com/hasan6t7">
         <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=hasan6t7&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
       </a>
-    </td>
-  </tr>
-</table>
-
+</div>
 <br />
 
 <!--Contribution Graph-->
